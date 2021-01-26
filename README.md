@@ -64,3 +64,10 @@
 ##### Sample Data View.
 ![alt text](https://github.com/teja0508/BCS_Body_Condition_Score_Cattle_Prediction/blob/main/Sample_data.PNG)
 
+##### Some of the research documnets links :
+
+1.https://www.uaex.edu/publications/pdf/fsa-4008.pdf
+
+2.https://www.grandin.com/dairy.cow.photo.charts.html
+
+3.https://www.vet.cornell.edu/sites/default/files/1e_Elanco%20Cow%20Body_condition_scoring_V3.pdf
