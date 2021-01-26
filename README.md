@@ -1,7 +1,7 @@
 # BCS_Body_Condition_Score_Cattle_Prediction
 
 <p align="center">
-<img width="880" height="450" src="https://gifer.com/en/2RVB">
+<img width="600" height="450" src="https://i.gifer.com/2RVB.gif">
 </p>
 
 ## **BCS Project Description:**
