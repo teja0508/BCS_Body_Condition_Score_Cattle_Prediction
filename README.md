@@ -1,6 +1,6 @@
 # BCS_Body_Condition_Score_Cattle_Prediction
 
-**BCS Project Description:**
+## **BCS Project Description:**
 
 ## 1.Problem Statement
 
