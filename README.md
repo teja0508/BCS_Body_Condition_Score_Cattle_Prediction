@@ -1,8 +1,8 @@
 # BCS_Body_Condition_Score_Cattle_Prediction
 
-<p align="center">
-<img width="600" height="450" src="https://i.gifer.com/2RVB.gif">
-</p>
+![alt text](https://github.com/teja0508/BCS_Body_Condition_Score_Cattle_Prediction/blob/main/BCS_score_image_1.PNG)
+![alt text](https://github.com/teja0508/BCS_Body_Condition_Score_Cattle_Prediction/blob/main/BCS_score_image_2.PNG)
+
 
 ## **BCS Project Description:**
 
