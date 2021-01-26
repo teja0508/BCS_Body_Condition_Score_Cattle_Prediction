@@ -1,5 +1,9 @@
 # BCS_Body_Condition_Score_Cattle_Prediction
 
+<p align="center">
+<img width="880" height="450" src="https://gifer.com/en/2RVB">
+</p>
+
 ## **BCS Project Description:**
 
 ## 1.Problem Statement
@@ -57,6 +61,6 @@
 
 ### Models files & Preprocessed files are empty, not loaded to github due to large file size.We can create those files by running the notebooks , process mentioned above.
 
-
+### Sample Data View.
 
 
