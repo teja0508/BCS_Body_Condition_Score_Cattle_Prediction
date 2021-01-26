@@ -57,10 +57,10 @@
 •	You can see some of the model analysis results images are store in Output_images folder. 
 
 
-### Base Data Available in this link : https://drive.google.com/file/d/1SJYEUO1IukwxP42BAi8Cr0n_QX5G1sT4/view?usp=drive_web
+##### Base Data Available in this link : https://drive.google.com/file/d/1SJYEUO1IukwxP42BAi8Cr0n_QX5G1sT4/view?usp=drive_web
 
-### Models files & Preprocessed files are empty, not loaded to github due to large file size.We can create those files by running the notebooks , process mentioned above.
+##### Models files & Preprocessed files are empty, not loaded to github due to large file size.We can create those files by running the notebooks , process mentioned above.
 
-### Sample Data View.
-
+##### Sample Data View.
+![alt text](https://github.com/teja0508/BCS_Body_Condition_Score_Cattle_Prediction/blob/main/Sample_data.PNG)
 
