@@ -4,6 +4,9 @@ BCS Project Description:
 1.Problem Statement
 •	Here we need to predict the BCS classes. Basically it’s a Multiclass Classification Problem.
 •	We have 1,2,3,4 classes.
+
+
+
 2.Preprocessing Steps & Feature Engineering
 •	Here we have train , test data & labels.csv file. So based on this csv file i created  a separate folders . so that each folder indicates different classes (Class_1,Class_2,Class_3,Class_4) .
 •	These data divided into train-valid data(each folder contains Class_1,Class_2,Class_3,Class_4 folders). You can find these in this file (Step_1_Train-Validation Split_final.ipynb).
@@ -11,6 +14,10 @@ BCS Project Description:
 •	You can find all these image preprocessing steps in (Image Preprocessing.ipynb ) file.
 •	After applying all the above feature engineering steps finally we’re with 2466 images of train,719 images of valid. 
 •	Data Visualization analysis is available in (visualization.ipynb) file
+
+
+
+
 3. Models Applied & Results 
 •	We used a base CNN model along with Reguralization techniques(Drop out , Batch Normalization , MaxPooling) etc.
 •	We have used activation functions ( Relu, swish) . and also used softmax as in the last layer.
