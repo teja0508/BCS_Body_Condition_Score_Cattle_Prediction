@@ -2,7 +2,7 @@
 
 **BCS Project Description:**
 
-1.Problem Statement
+## 1.Problem Statement
 
 •	Here we need to predict the BCS classes. Basically it’s a Multiclass Classification Problem.
 
@@ -10,7 +10,7 @@
 
 
 
-2.Preprocessing Steps & Feature Engineering
+## 2.Preprocessing Steps & Feature Engineering
 
 •	Here we have train , test data & labels.csv file. So based on this csv file i created  a separate folders . so that each folder indicates different classes (Class_1,Class_2,Class_3,Class_4) .
 
@@ -28,7 +28,7 @@
 •	Data Visualization analysis is available in (visualization.ipynb) file
 
 
-3. Models Applied & Results 
+## 3. Models Applied & Results 
 
 •	We used a base CNN model along with Reguralization techniques(Drop out , Batch Normalization , MaxPooling) etc.
 
