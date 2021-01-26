@@ -9,13 +9,19 @@ BCS Project Description:
 
 2.Preprocessing Steps & Feature Engineering
 •	Here we have train , test data & labels.csv file. So based on this csv file i created  a separate folders . so that each folder indicates different classes (Class_1,Class_2,Class_3,Class_4) .
+
+
 •	These data divided into train-valid data(each folder contains Class_1,Class_2,Class_3,Class_4 folders). You can find these in this file (Step_1_Train-Validation Split_final.ipynb).
+
+
 •	here we have less amount of data. We applied a data agumentation steps & also applied transformations, filters on images like Gradient, Negative Images, Box filter , Adaptive + Gassiun thresholding , Discrete Fourier Transform , Est. transformation , Fitting Polygons , log_transformation , Gassiuan filters + Kernals , Canny_edge , Image_temparature , Contrast Stretching ,K-means , Keras augmentation. 
+
+
 •	You can find all these image preprocessing steps in (Image Preprocessing.ipynb ) file.
+
 •	After applying all the above feature engineering steps finally we’re with 2466 images of train,719 images of valid. 
+
 •	Data Visualization analysis is available in (visualization.ipynb) file
-
-
 
 
 3. Models Applied & Results 
