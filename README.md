@@ -1,8 +1,11 @@
 # BCS_Body_Condition_Score_Cattle_Prediction
-BCS Project Description:
+
+**BCS Project Description:**
 
 1.Problem Statement
+
 •	Here we need to predict the BCS classes. Basically it’s a Multiclass Classification Problem.
+
 •	We have 1,2,3,4 classes.
 
 
