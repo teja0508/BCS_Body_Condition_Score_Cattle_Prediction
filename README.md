@@ -8,6 +8,7 @@ BCS Project Description:
 
 
 2.Preprocessing Steps & Feature Engineering
+
 •	Here we have train , test data & labels.csv file. So based on this csv file i created  a separate folders . so that each folder indicates different classes (Class_1,Class_2,Class_3,Class_4) .
 
 
@@ -25,15 +26,27 @@ BCS Project Description:
 
 
 3. Models Applied & Results 
+
 •	We used a base CNN model along with Reguralization techniques(Drop out , Batch Normalization , MaxPooling) etc.
+
 •	We have used activation functions ( Relu, swish) . and also used softmax as in the last layer.
+
 •	Base CNN model given Train_Accuracy of 73.01% , Validation_Accuracy of 69.96% (After applying all filters & Keras augmentation). 
+
 •	You Can see this model in (Base_CNN.ipynb) file
+
 •	After this we tried with transfer learning techniques VGG16 , Resnet101.
+
 •	The same preprocessed images  are given input to these above transfer techniques.
+
 •	VGG16 has given Train_accuracy of  72.43% , Valid_accuracy of 68.98% (After applying all filters & Keras augmentation).
+
 •	You Can see this in (VGG16.ipynb) file.
+
 •	Resnet has given Train_accuracy of 70.85% , valid_accuracy 69.40% (After applying all filters & Keras augmentation).
+
 •	You can see this in (Resnet101.ipynb) file.
+
 •	You can see some of the model analysis results images are store in Output_images folder. 
+
 
